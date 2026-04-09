@@ -1,5 +1,5 @@
 Complete installation script to install:
-  allstarlink
+  allstarlink (asl3)
   shari sa818
   allmon3
 
