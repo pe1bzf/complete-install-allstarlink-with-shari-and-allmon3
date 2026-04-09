@@ -4,5 +4,5 @@ Complete installation script to install:
   allmon3
 
 With input dialog for call, nodenummer etc.
-tested on Debian12 (bookworm)
+tested on RPI - Debian12 (bookworm)
 
