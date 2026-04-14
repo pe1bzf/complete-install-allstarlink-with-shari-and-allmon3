@@ -1,6 +1,8 @@
-Complete installation script to install:
+New release. some bug's repaired
+
+Complete installation script to install: 
   allstarlink (asl3)
-  shari sa818
+  shari sa818 (can be skipped)
   allmon3
 
 With input dialog for call, nodenummer etc.
